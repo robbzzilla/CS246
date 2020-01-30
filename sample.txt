@@ -1,3 +1,7 @@
 Hello welcome to the repository
 We're going to make some changes around here
-Hold on, there's a snake in my boot
+ HEAD
+
+=======
+I'm not actually finished changing things, give me one sec
+ 799716729b4b1e1121e348d18b9924fece83a2a1
